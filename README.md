@@ -3,9 +3,13 @@
 You can find in the file **owkin_use_case.pdf** my textuals answers and documentation about the use case
 ## Assets
 You can find aready generated assets from code in the folder **curation-output/generated**
+
 **Step 1** generates **dataset_description.json** 
+
 **Step 2** generates **quality_assessment.json** 
+
 **Step 3** generates **is_empty.png**, **is_format_not_compliant.png**, **rules.png**
+
 **Step 4** generates **dataset_with_better_quality.csv**
 
 ## Code
