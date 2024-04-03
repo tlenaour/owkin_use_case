@@ -1,0 +1,9 @@
+build/
+pytest*
+*.egg-info
+__pycache__
+.idea
+.coverage
+dist
+htmlcov/
+.env_*
