@@ -24,7 +24,7 @@ $ cd data-curation
 ```
 ### Install dependencies 
  ```console
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 ### Install code 
  ```console
